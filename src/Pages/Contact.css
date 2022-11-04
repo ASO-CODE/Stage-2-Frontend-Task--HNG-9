@@ -1,0 +1,24 @@
+:root {
+  --form-heading: #101828; /*input text*/
+  --form-text: #4b668d;
+  --form-label: #344054;
+  --form-placeholder: #667085;
+  --form-field: #475467;
+  --form-button: #1570ef; /*checkbox true*/
+  --button-hover: #175cd3;
+  --button-focused-shadow: #d1e9ff;
+  --button-disabled: #b2ddff;
+  --input-success: #84caff;
+  --input-error: #f89687;
+  --input-error-text: #f83f23;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div{
+  color: var(--form-button);
+}
