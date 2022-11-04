@@ -14,7 +14,7 @@ const Links = () => {
       })}
       <Link to="/contact" className="link">
         <a  href="/contact"  id="contact">
-          Contact
+          Contact Me
         </a>
       </Link>
     </section>

@@ -4,7 +4,7 @@ import Base from "../components/Base";
 import InputForm from "../components/InputForm";
 const Contact = () => {
   return (
-    <main className="App">
+    <main className="Contact">
       <InputForm />
       <Base />
     </main>

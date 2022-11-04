@@ -5,7 +5,7 @@ import I4G from "../images/I4G.svg";
 const Base = () => {
   return (
     <section id="footer">
-      <div className="footer-line" />
+      <div className="footer-line base-line" />
       <div className="logos">
         <img src={ZuriLogo} alt="zuri logo" />
         <p>HNG Internship 9 Frontend Task</p>
