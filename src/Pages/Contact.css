@@ -157,6 +157,9 @@ input[type="checkbox"] {
   border: none;
   outline: none;
 }
+#btn__submit:hover {
+  background-color: var(--button-hover);
+}
 
 span {
   font-size: 14px;
