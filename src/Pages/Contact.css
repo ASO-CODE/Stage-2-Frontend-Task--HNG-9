@@ -21,7 +21,7 @@
 }
 
 .Contact {
-  padding: 4rem 7rem 3rem 7rem;
+  padding: 4rem 7rem 0rem 7rem;
 }
 
 #Form {
@@ -181,7 +181,7 @@ textarea:invalid[focused="true"] ~ span {
 
 @media screen and (max-width: 768px) {
   .Contact {
-    padding: 2rem 1rem 2rem 1rem;
+    padding: 2rem 1rem 0rem 1rem;
   }
 
   #Form {
